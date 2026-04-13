@@ -1,12 +1,16 @@
-<!-- Banner -->
+<!-- Real gorilla badge logo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B3E,100:C9A227&height=220&section=header&text=DevOps%20ARG&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=Always%20build.%20Never%20burn.&descAlignY=60&descSize=22" alt="DevOps ARG banner" />
+  <a href="https://www.devopsarg.com">
+    <img src="assets/logo.webp" alt="DevOps ARG — Always build. Never burn." width="260" />
+  </a>
 </p>
+
+<h1 align="center">DevOps ARG</h1>
 
 <!-- Typing tagline -->
 <p align="center">
   <a href="https://www.devopsarg.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9A227&center=true&vCenter=true&width=820&lines=DevOps%2C+SRE+%26+FinOps+consulting+from+Argentina+%F0%9F%87%A6%F0%9F%87%B7;Kubernetes+%C2%B7+AWS+%C2%B7+Terraform+%C2%B7+Claude+%C2%B7+OpenTelemetry;We+ship+infra+that+does+not+wake+you+up+at+3+AM;30%E2%80%9360%25+AWS+bill+reduction+without+downgrading+workloads" alt="Typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9A227&center=true&vCenter=true&width=820&lines=DevOps%2C+SRE+%26+FinOps+consulting+from+Argentina+%F0%9F%87%A6%F0%9F%87%B7;Kubernetes+%C2%B7+AWS+%C2%B7+Terraform+%C2%B7+Claude+%C2%B7+OpenTelemetry;We+ship+infra+that+does+not+wake+you+up+at+3+AM;30%E2%80%9360%25+AWS+bill+reduction+without+downgrading+workloads;Always+build.+Never+burn." alt="Typing tagline" />
   </a>
 </p>
 
@@ -124,11 +128,9 @@ We take on **a few engagements per quarter** — usually 4–12 week platform sp
 ---
 
 <p align="center">
+  <img src="assets/logo-small.webp" alt="DevOps ARG badge" width="96" />
+  <br/>
   <sub>Based in Buenos Aires. Working with teams across the Americas and EU.</sub>
   <br/>
-  <sub><strong>Always build. Never burn.</strong> 🦍</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,100:0D1B3E&height=80&section=footer" />
+  <sub><strong>Always build. Never burn.</strong></sub>
 </p>
